@@ -1,7 +1,7 @@
 body {
-  content: url(3dbrain.jpg);
-  height: 100vh;
-  width: 100vw;
+  background-image: url(3dbrain.jpg);
+  max-height: 100vh;
+  max-width: 100vw;
 }
 .usd2 {
   display: flex;
