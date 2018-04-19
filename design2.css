@@ -1,5 +1,5 @@
 body {
-  background-image: url(3dbrain.jpg);
+  content: url(3dbrain.jpg);
   height: 100vh;
   width: 100vw;
 }
