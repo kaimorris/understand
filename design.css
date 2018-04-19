@@ -1,0 +1,72 @@
+body {
+	background-color: white;
+}
+.text {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: inherit;
+}
+.usd {
+	top: 0vh;
+	position: absolute;
+	right: 0;
+	width: 100vw;
+	height: 15vh;
+	border-style: solid;
+	border-width: 2px;
+	box-sizing: border-box;
+	border-top-width: 3px;
+	border-left-width: 3px;
+	border-right-width: 3px;
+}
+.sad {
+	left: 0;
+	width: 50vw;
+	height: calc(85vh/2);
+	position: absolute;
+	top: 15vh;
+	border-style: solid;
+	border-width: 3px;
+	box-sizing: border-box;
+	border-right-width: 2px;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+}
+.adhd {
+	right: 0;
+	width: 50vw;
+	height: calc(85vh/2);
+	position: absolute;
+	top: 15vh;
+	border-style: solid;
+	border-width: 3px;
+	box-sizing: border-box;
+	border-left-width: 2px;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+}
+.autism {
+	left: 0;
+	bottom: 0vh;
+	width: 50vw;
+	height: calc(85vh/2);
+	position: absolute;
+	border-style: solid;
+	border-width: 3px;
+	box-sizing: border-box;
+	border-right-width: 2px;
+	border-top-width: 2px;
+}
+.aboutus {
+	right: 0;
+	bottom: 0vh;
+	width: 50vw;
+	height: calc(85vh/2);
+	position: absolute;
+	border-style: solid;
+	border-width: 3px;
+	box-sizing: border-box;
+	border-left-width: 2px;
+	border-top-width: 2px;
+}
