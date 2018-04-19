@@ -4,4 +4,9 @@ body {
   width: 100vw;
 }
 .usd {
+  display: flex;
+	align-items: center;
+	justify-content: center;
+	height: inherit;
+}
   
