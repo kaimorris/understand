@@ -1,0 +1,84 @@
+body{
+	background: linear-gradient(to right, red,yellow,blue);
+}
+	
+.entire{
+	width:100vw;
+	height:100vh;
+	background: linear-gradient(to right, red,yellow,blue);
+}
+
+.paragraph{
+	width:50vw;
+	height:100vh;
+	line-height: 27.5px;
+	background: linear-gradient(to right, red,yellow,blue);
+	float:left;
+	font-family: 'Nobile', sans-serif;
+
+}
+.info{
+	width:100vw;
+	height:100vh;
+	background: linear-gradient(to right, red,yellow,blue);
+	float:left;
+	font-family: 'Nobile', sans-serif;
+}
+.infosub{
+	width:50vw;
+	height:100vh;
+	background: linear-gradient(to right, red,yellow,blue);
+	font-family: 'Nobile', sans-serif;
+}
+
+.question{
+	width:50vw;
+	height:100vh;
+	background-color:blue;
+	float:right;
+
+}
+
+.top{
+	width:100vw;
+	height:30vh;
+	background: linear-gradient(to right, yellow,red,blue);
+	font-family: 'Nobile', sans-serif;	
+}
+
+.bottom{
+	width:100vw;
+	height:70vh;
+	background: linear-gradient(to right, yellow,red,blue);
+	
+}
+
+.one{
+	width:100vw;
+	height:17.5vh;
+	background: linear-gradient(to right, yellow,red,blue);
+}
+
+.two{
+	width:100vw;
+	height:17.5vh;
+	background: linear-gradient(to right, yellow,red,blue);
+}
+
+.three{
+	width:100vw;
+	height:17.5vh;
+	background: linear-gradient(to right, yellow,red,blue);
+}
+
+.four{
+	width:100vw;
+	height:17.5vh;
+	background: linear-gradient(to right, yellow,red,blue);
+}
+
+#text{
+	display: flex;
+	font-size: 100px;
+	font-family: 'Nobile', sans-serif;
+}
