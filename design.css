@@ -8,6 +8,12 @@ img {
 .focus {
 	background:url(focus.png);
 }
+.haf {
+	background:url(haf.png);
+}
+.sad2 {
+	background:url(sad.jpg);
+}
 .text {
 	display: flex;
 	align-items: center;
