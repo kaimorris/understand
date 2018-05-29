@@ -7,12 +7,15 @@ img {
 }
 .focus {
 	background:url(focus.png);
+	opacity: 0.2;
 }
 .haf {
 	background:url(haf.png);
+	opacity: 0.2;
 }
 .sad2 {
 	background:url(sad.jpg);
+	opacity: 0.2;
 }
 .text {
 	display: flex;
