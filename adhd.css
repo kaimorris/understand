@@ -13,7 +13,7 @@ body{
 	border-top-width: 3px;
 	border-left-width: 3px;
 	border-right-width: 3px;
-	font-size: 130px;
+	font-size: 100px;
 	font-family: 'Nobile', sans-serif;
 }
 .adhdinfo {
@@ -31,7 +31,7 @@ position: fixed;
   height: inherit;
   float: left;
   padding: 7px;
-font-size: 50px;
+font-size: 25px;
 	font-family: 'Nobile', sans-serif;	
 }
 .centertext {
