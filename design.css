@@ -1,5 +1,5 @@
 body {
-	background-color: white;
+	background-color: black;
 }
 img {
 	max-width: 100%;
@@ -60,7 +60,7 @@ img {
 	align-items: center;
 	justify-content: center;
 	height: inherit;
-	color: black;
+	color: white;
 	font-family: proxima-nova, sans-serif;
 	font-style: normal;
 	font-weight: 700;
