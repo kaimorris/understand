@@ -21,6 +21,7 @@ img {
 .sad:hover {
    opacity: 1.0;
    transform: scale(1.1);
+   overflow: hidden;
 }
 .adhd {
    opacity: 0.2;
