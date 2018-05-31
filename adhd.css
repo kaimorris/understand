@@ -56,8 +56,8 @@ body{
 	transition: all .2s ease-in-out; 
 }
 .feedback:hover { 
-	transform: scale(2.2);
-	opacity: 0.5;
+	transform: scale(1.1);
+	color: white;
 }
 .centertext {
 	position: fixed;
