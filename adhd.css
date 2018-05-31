@@ -52,6 +52,9 @@ body{
 	font-size: 25px;
 	font-family: 'Nobile', sans-serif;
 }
+.feedback:hover {
+  width: 145px;
+}
 .centertext {
 	position: fixed;
 	align-items: center;
