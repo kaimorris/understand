@@ -7,20 +7,15 @@ img {
 }
 .focus  {
 	background:url(focus.png);
-	max-width: 100%;
-	max-height: 100%;
 }
 .haf {
 	background:url(haf.png);
 }
 .sad2 {
 	background:url(sad.jpg);
-	max-width: 100%;
-	max-height: 100%;
 }
 .aboutus2 {
 	background:url(aboutus.jpg);
-	background-repeat: no-repeat;
 }
 .sad {
    opacity: 0.2;
