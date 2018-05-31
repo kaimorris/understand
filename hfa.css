@@ -1,3 +1,67 @@
 body {
 	background: linear-gradient(to right, red , yellow);
 }
+.feedback { 
+	transition: all .2s ease-in-out; 
+}
+.feedback:hover { 
+	transform: scale(1.1);
+	color: white;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+	color: black;
+}
+.hfah1 {
+	top: 0vh;
+	position: absolute;
+	right: 0;
+	width: 100vw;
+	height: 15vh;
+	border-style: solid;
+	border-width: 2px;
+	box-sizing: border-box;
+	border-top-width: 3px;
+	border-left-width: 3px;
+	border-right-width: 3px;
+	font-family: 'Nobile', sans-serif;
+}
+.hfainfo  {
+position: fixed;
+  border-style: solid;
+  border-width: 2px;
+  box-sizing: border-box;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 20%;
+  margin-bottom: 0px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: inherit;
+  float: left;
+  padding: 7px;
+ font-family: 'Nobile', sans-serif;
+}
+.feedback {
+	position: absolute;
+	border-style: solid;
+	border-width: 2px;
+	box-sizing: border-box;
+	margin-left: 600px;
+	margin-right: 600px;
+	margin-top: 55%;
+	margin-bottom: 0px;
+	align-items: center;
+	justify-content: center;
+	display: block;
+	height: inherit;
+	float: left;
+	padding: 7px;
+	font-size: 25px;
+	font-family: 'Nobile', sans-serif;
+}
