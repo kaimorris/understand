@@ -50,7 +50,8 @@ body{
 	float: left;
 	padding: 7px;
 	font-size: 25px;
-	font-family: 'Nobile', sans-serif;	
+	font-family: 'Nobile', sans-serif;
+	color: green;
 }
 .centertext {
 	position: fixed;
