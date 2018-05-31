@@ -23,6 +23,8 @@ a:visited {
 	width: 100vw;
 	height: 15vh;
 	border-style: solid;
+	align-items: center;
+	justify-content: center;
 	border-width: 2px;
 	box-sizing: border-box;
 	border-top-width: 3px;
