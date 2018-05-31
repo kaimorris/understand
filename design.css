@@ -37,9 +37,6 @@ a:visited {
 text-decoration: none;
     color: black;
 }
-a:hover { 
-	text-shadow: 0 0 5px #E8A5CF; 
-}
 .sad2 {
 	background:url(sad.jpg);
 }
