@@ -52,8 +52,13 @@ body{
 	font-size: 25px;
 	font-family: 'Nobile', sans-serif;
 }
-.feedback { transition: all .2s ease-in-out; }
-.feedback:hover { transform: scale(1.1); }
+.feedback { 
+	transition: all .2s ease-in-out; 
+}
+.feedback:hover { 
+	transform: scale(2.2);
+	opacity: 0.5;
+}
 .centertext {
 	position: fixed;
 	align-items: center;
