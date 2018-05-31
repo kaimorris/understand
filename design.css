@@ -13,8 +13,11 @@ img {
 }
 .sad2 {
 	background:url(sad.jpg);
-	background-size: cover;
     	background-repeat: no-repeat;
+}
+.aboutus2 {
+	background:url(aboutus.jpg);
+	background-repeat: no-repeat;
 }
 .sad {
    opacity: 0.2;
