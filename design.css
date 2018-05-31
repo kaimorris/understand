@@ -7,6 +7,8 @@ img {
 }
 .focus  {
 	background:url(focus.png);
+	background-repeat: no repeat;
+	background-position: center; 
 	background-size: contain;
   	background-size: cover;
 }
