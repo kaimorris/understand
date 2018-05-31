@@ -1,5 +1,5 @@
 body {
-	background-color: black;
+	background-color: white;
 }
 img {
 	max-width: 100%;
@@ -63,7 +63,7 @@ img {
 	align-items: center;
 	justify-content: center;
 	height: inherit;
-	color: white;
+	color: black;
 	font-family: proxima-nova, sans-serif;
 	font-style: normal;
 	font-weight: 700;
@@ -88,7 +88,6 @@ text-decoration: none;
 	width: 100vw;
 	height: 15vh;
 	border-style: solid;
-	border-color: white;
 	border-width: 2px;
 	box-sizing: border-box;
 	border-top-width: 3px;
@@ -102,7 +101,6 @@ text-decoration: none;
 	position: absolute;
 	top: 15vh;
 	border-style: solid;
-	border-color: white;
 	border-width: 3px;
 	box-sizing: border-box;
 	border-right-width: 2px;
@@ -116,7 +114,6 @@ text-decoration: none;
 	position: absolute;
 	top: 15vh;
 	border-style: solid;
-	border-color: white;
 	border-width: 3px;
 	box-sizing: border-box;
 	border-left-width: 2px;
@@ -129,7 +126,6 @@ text-decoration: none;
 	width: 50vw;
 	height: calc(85vh/2);
 	position: absolute;
-	border-color: white;
 	border-style: solid;
 	border-width: 3px;
 	box-sizing: border-box;
@@ -143,7 +139,6 @@ text-decoration: none;
 	height: calc(85vh/2);
 	position: absolute;
 	border-style: solid;
-	border-color: white;
 	border-width: 3px;
 	box-sizing: border-box;
 	border-left-width: 2px;
