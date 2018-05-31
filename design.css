@@ -15,7 +15,8 @@ img {
 }
 .sad2 {
 	background:url(sad.jpg);
-    	background-repeat: no-repeat;
+	max-width: 100%;
+	max-height: 100%;
 }
 .aboutus2 {
 	background:url(aboutus.jpg);
