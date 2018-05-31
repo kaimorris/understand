@@ -7,6 +7,8 @@ img {
 }
 .focus  {
 	background:url(focus.png);
+	background-size: contain;
+  	background-size: cover;
 }
 .haf {
 	background:url(haf.png);
@@ -39,7 +41,8 @@ img {
 .autism {
    opacity: 0.2;
    transition: all .2s ease-in-out; 
-
+   background-size: contain;
+   background-size: cover;
 }
 .autism:hover {
    opacity: 1.0;
