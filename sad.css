@@ -13,6 +13,7 @@ body{
 	border-top-width: 3px;
 	border-left-width: 3px;
 	border-right-width: 3px;
+	font-family: 'Nobile', sans-serif;
 }
 .sadinfo {
 position: fixed;
@@ -29,6 +30,7 @@ position: fixed;
   height: inherit;
   float: left;
   padding: 7px;
+ font-family: 'Nobile', sans-serif;
 }
 .centertext {
 	position: fixed;
