@@ -12,12 +12,18 @@ img {
 }
 .haf {
 	background:url(haf.png);
+	background-size: contain;
+  	background-size: cover;
 }
 .sad2 {
 	background:url(sad.jpg);
+	background-size: contain;
+  	background-size: cover;
 }
 .aboutus2 {
 	background:url(aboutus.jpg);
+	background-size: contain;
+  	background-size: cover;
 }
 .sad {
    opacity: 0.2;
