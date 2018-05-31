@@ -42,10 +42,10 @@ body{
 	margin-left: 300px;
 	margin-right: 300px;
 	margin-top: 75%;
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 	align-items: center;
 	justify-content: center;
-	display: flex;
+	display: block;
 	height: inherit;
 	float: left;
 	padding: 7px;
