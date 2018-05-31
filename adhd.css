@@ -1,6 +1,14 @@
 body{
 	background: linear-gradient(to right, red,yellow,blue);
 }
+a:link {
+text-decoration: none;
+    color: white;
+}
+a:visited {
+text-decoration: none;
+    color: white;
+}
 .adhdh1 {
 	top: 0vh;
 	position: absolute;
