@@ -7,15 +7,36 @@ img {
 }
 .focus {
 	background:url(focus.png);
-	opacity: 0.2;
 }
 .haf {
 	background:url(haf.png);
-	opacity: 0.2;
 }
 .sad2 {
 	background:url(sad.jpg);
-	opacity: 0.2;
+}
+sad {
+   opacity: 0.2;
+}
+sad:hover {
+   opacity: 1.0;
+}
+adhd {
+   opacity: 0.2;
+}
+adhd:hover {
+   opacity: 1.0;
+}
+autism {
+   opacity: 0.2;
+}
+autism:hover {
+   opacity: 1.0;
+}
+aboutus {
+   opacity: 0.2;
+}
+aboutus:hover {
+   opacity: 1.0;
 }
 .text {
 	display: flex;
