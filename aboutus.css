@@ -1,1 +1,10 @@
-b
+body{
+	background: linear-gradient(to right, red,yellow,blue);
+  position: fixed;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	height: inherit;
+	float: center;
+  font-size: 50px;
+}
