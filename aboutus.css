@@ -1,6 +1,8 @@
 body{
 	background: linear-gradient(to right, red,yellow,blue);
-  position: fixed;
+}
+.centertext1 {
+ 	position: fixed;
 	align-items: center;
 	justify-content: center;
 	display: flex;
