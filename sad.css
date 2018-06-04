@@ -40,7 +40,7 @@ position: fixed;
   box-sizing: border-box;
   margin-left: 300px;
   margin-right: 300px;
-  margin-top: 12%;
+  margin-top: 10%;
   margin-bottom: 0px;
   align-items: center;
   justify-content: center;
@@ -48,6 +48,7 @@ position: fixed;
   height: inherit;
   float: left;
   padding: 7px;
+  font-size: 18px;
  font-family: 'Nobile', sans-serif;
 }
 .feedback {
@@ -55,9 +56,9 @@ position: fixed;
 	border-style: solid;
 	border-width: 2px;
 	box-sizing: border-box;
-	margin-left: 800px;
+	margin-left: 750px;
 	margin-right: 600px;
-	margin-top: 41%;
+	margin-top: 44%;
 	margin-bottom: 0px;
 	align-items: center;
 	justify-content: center;
