@@ -8,6 +8,13 @@ body{
 	transform: scale(1.1);
 	color: white;
 }
+.simulation { 
+	transition: all .2s ease-in-out; 
+}
+.simulation:hover { 
+	transform: scale(1.1);
+	color: white;
+}
 a:link {
     text-decoration: none;
     color: black;
@@ -56,9 +63,27 @@ a:visited {
 	border-style: solid;
 	border-width: 2px;
 	box-sizing: border-box;
-	margin-left: 600px;
+	margin-left: 300px;
 	margin-right: 600px;
-	margin-top: 45%;
+	margin-top: 47%;
+	margin-bottom: 0px;
+	align-items: center;
+	justify-content: center;
+	display: block;
+	height: inherit;
+	float: left;
+	padding: 7px;
+	font-size: 25px;
+	font-family: 'Nobile', sans-serif;
+}
+.simulation {
+	position: absolute;
+	border-style: solid;
+	border-width: 2px;
+	box-sizing: border-box;
+	margin-left: 1375px;
+	margin-right:300px;
+	margin-top: 47%;
 	margin-bottom: 0px;
 	align-items: center;
 	justify-content: center;
